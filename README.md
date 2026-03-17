@@ -1,1 +1,1 @@
-https://github.com/YoFame/slozhno-sosredotochitsya-ad#
+https://github.com/YoFame/slozhno-sosredotochitsya-ad
