@@ -1,24 +1,21 @@
-/*
-  Переменные для вашего проекта
-  и их переопределение под различные устройства
-*/
 :root {
-  --basic-pink: #FF8DCB;
-  --title-pink: #FFC2E6;
-  --almost-white-bg: #FFF1F7;
-  --real-red: #ff0070;
-  --approximately-black: #000028;
-  --almost-black: #353430;
-
+  --background-image: url("../images/cover-image-dark.png");
+  --accent-color: #ff0070;
+  --accent-color-opacity: #ff007066;
+  --text-color: #f1b2ce;
+  --decoration-color: var(--accent-color);
+  --background-color: #000028;
+  --header1-color: #db00ff;
+  --header2-color: var(--accent-color);
+  --header3-color: var(--background-color);
+  --font-family: 'IBM Plex mono', monospace;
   --regular-font-size: 18px;
+  --small-line-height: 83%;
   --regular-line-height: 100%;
-  --regular-gap: 10px;
-  --decoration-gap: clamp(10px , 2.65vw , 20px);
-  --min-height: 668px;
-  --header-margin-left: min(10px , 20px - 2.6vw);
-  --section-child-margin: 40px;
-  --project-font-family: "IBM Plex Mono", "Arial", sans-serif;
-  --corner-thickness: 1px;
-  --rec_empty_x_pos: 30px;
+  --large-line-height: 130%;
+  --title-line-height: 82.5%;
+  --bold-font-weight: 700;
+  --regular-font-weight: 400;
+  --font-style: normal;
+  --is-light: visible;
 }
-
